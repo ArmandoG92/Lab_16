@@ -1,4 +1,10 @@
-
+####################
+#                  #
+# Copiar todo esto #
+#                  #
+####################
+# Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
+#Alumno: Luis Armando Gonzalez Arellano
 
 
 ##Laboratorio -Analisis de redes en R- indicadores básicos globales
