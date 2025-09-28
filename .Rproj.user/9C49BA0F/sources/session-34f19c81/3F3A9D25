@@ -1,11 +1,11 @@
 {
     "id": "3F3A9D25",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/Lab_16/LAB_16.R",
+    "project_path": "LAB_16.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2291920083",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1759072994009.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 4189032028197581413,
-    "encoding": "",
+    "lastKnownWriteTime": 1759074384,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1759074073211,
+    "last_content_update": 1759074384878,
     "read_only": false,
     "read_only_alternatives": []
 }
